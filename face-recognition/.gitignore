@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+# Cadet face data is biometric — never commit it
+data/

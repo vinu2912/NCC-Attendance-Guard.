@@ -1,0 +1,12 @@
+# Original clones + raw images kept locally for reference only
+_sources/
+
+# Dependencies / builds
+node_modules/
+dist/
+*.log
+
+# Secrets — never commit real env files
+.env
+**/.env
+!**/.env.example
