@@ -241,4 +241,10 @@ API docs: http://localhost:8000/docs
 | [bhoomideshpande/attendance-n-guard](https://github.com/bhoomideshpande/attendance-n-guard) | `legacy/v1-attendance-n-guard/` |
 
 ## Team
-Sushant Tiwari, Bhoomi Deshpande, Harsh Patil, Rakshitak21. The Flutter mobile app and the face recognition service were added by the repo owner.
+| Member | Contribution |
+|---|---|
+| [Vinay Nissimagoudar](https://github.com/vinu2912) | Combined the project into one repo, Flutter mobile app, face recognition service, JWT security, architecture and API docs |
+| [Sushant Tiwari](https://github.com/sushant8ds) | Initial NCC portal, photo upload, Attendance N Guard upload |
+| [Bhoomi Deshpande](https://github.com/bhoomideshpande) | Supabase migration, backend integration, RLS policies and password security |
+| Harsh Patil | UI styling and fixes |
+| [Rakshitak21](https://github.com/Rakshitak21) | Early frontend work |
